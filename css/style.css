@@ -239,7 +239,8 @@ font-family: 'Faster One', cursive;
     font-family: 'Montserrat';
     font-size: 32px;
     font-weight: 200;
-}
+    margin-right: 65px;
+ }
 
 .logo_container h1 span {
     font-weight: 800;
