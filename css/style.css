@@ -431,6 +431,7 @@ font-family: 'Faster One', cursive;
     .flex { flex-direction: column;
   }
    .Gallery { padding-top: 100px;
+    padding-left: 50px;
   }
   .contact { padding-top: 100px;
   }
